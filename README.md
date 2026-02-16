@@ -12,10 +12,6 @@ This project is a machine learning model that detects spam messages.
 2. Transform text
 3. Predict spam/ham
 
-## Tech Stack
-- Python
-- Scikit-learn
-- Pandas
 
 ## Author
 Kalyan Burada
